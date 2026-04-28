@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 support ci/cd
 docker image store
+=======
+artifactory tool
+jar,war, ear files store
+>>>>>>> 3ea6abb (jfrog deta)
